@@ -2,7 +2,7 @@ body {
 	background-color:black;
 }
 
-h1, h3, p, ol, a {
+h1, h3, p, ol, a, ul {
 	font-family: Arial, sans-serif;
 	font-size: 23px; 
 	text-align: center; 
